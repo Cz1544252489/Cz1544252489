@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cz1544252489
-- 👀 I’m interested in Math. and computational Math.
+- 👀 I’m interested in Math. and service tech.
 - 🌱 I’m currently learning Matrix Completion problem.
 - 💞️ I’m looking to collaborate on Fortran and Matlab.
 - 📫 Reach me with e-mail 1544252489@qq.com or chenzhuo641182084@gmail.com
