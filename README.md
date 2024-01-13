@@ -4,6 +4,8 @@
 - 🩹 I`m learning bilevel optimization and trying to apply it to deep learning.
 - 💞️ I’m coding on Matlab, python and shell(Linux).
 - 📫 Reach me with e-mail 1544252489@qq.com.
+- 🚡 I have an [AI web](https://hp.cz123.top/AI.html) that contains three AI services with password. If you want to try them, please email to me.
+- ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top). 
 
 <!---
 Cz1544252489/Cz1544252489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
