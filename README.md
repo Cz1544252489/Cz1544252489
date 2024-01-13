@@ -7,7 +7,6 @@
 - 🚡 I have an [AI web](https://hp.cz123.top/AI.html) that contains three AI services with password. If you want to try them, please email to me.
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
-- 
 
 <!---
 Cz1544252489/Cz1544252489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
