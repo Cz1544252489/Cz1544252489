@@ -8,7 +8,7 @@
 - 📫 Reach me with e-mail 1544252489@qq.com or chenzhuo641182084@gmail.com.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
 <!---
 Cz1544252489/Cz1544252489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
