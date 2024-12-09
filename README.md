@@ -7,6 +7,8 @@
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
 - 📫 Reach me with e-mail 1544252489@qq.com or chenzhuo641182084@gmail.com.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=radical)
 <!---
 Cz1544252489/Cz1544252489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
