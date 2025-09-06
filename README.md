@@ -5,7 +5,7 @@
 - 💞️ I’m coding on MATLAB, Python, Shell(Linux) and C++.
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
-- 📫 Reach me with e-mail 1544252489@qq.com or chenzhuo641182084@gmail.com.
+- 📫 Reach me with e-mail 1544252489@qq.com.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
