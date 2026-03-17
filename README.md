@@ -6,7 +6,7 @@
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
 - 📫 Reach me with e-mail a@shuedu.lol.
-- 📝 Working on ![Trilium Note](https://github.com/TriliumNext/Trilium).
+- 📝 Work using ![Trilium Note](https://github.com/TriliumNext/Trilium).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
