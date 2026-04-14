@@ -5,7 +5,7 @@
 - 💞️ I’m coding on MATLAB, Python, Shell(Linux) and C++.
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
-- 📫 Reach me with e-mail a@shuedu.lol.
+- 📫 Reach me with e-mail a@cz123.top.
 - 📝 Work and study using ![Trilium Note](https://github.com/TriliumNext/Trilium).
 
 
