@@ -11,7 +11,8 @@
 - 📫 Reach me with e-mail a@cz123.top.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
+--->
 <!---
 Cz1544252489/Cz1544252489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
