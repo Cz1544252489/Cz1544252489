@@ -8,6 +8,7 @@
 - 📝 Work and study using [Trilium Note](https://github.com/TriliumNext/Trilium) (36k star in GitHub) on [here](https://notes.cz123.top).
 - 🎹 Music listening with self-hosting [Navidrome](https://github.com/navidrome/navidrome) (21k star in GitHub) on [here](https://music.cz123.top).
 - 📖 Book reading with self-hosting [Kavita](https://github.com/Kareadita/Kavita) (10k star in GitHub) on [here](https://book.cz123.top).
+- 🙂 Tex/PDF typesetting with [tectonic](https://github.com/tectonic-typesetting/tectonic) (5k star in GitHub).
 - 📫 Reach me with e-mail a@cz123.top.
 
 
