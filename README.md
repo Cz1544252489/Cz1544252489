@@ -5,10 +5,10 @@
 - 💞️ I’m coding on MATLAB, Python, Shell(Linux) and C++.
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
-- 📫 Reach me with e-mail a@cz123.top.
 - 📝 Work and study using [Trilium Note](https://github.com/TriliumNext/Trilium) (36k star in GitHub) on [here](https://notes.cz123.top).
 - 🎹 Music listening with self-hosting [Navidrome](https://github.com/navidrome/navidrome) (21k star in GitHub) on [here](https://music.cz123.top).
 - 📖 Book reading with self-hosting [Kavita](https://github.com/Kareadita/Kavita) (10k star in GitHub) on [here](https://book.cz123.top).
+- 📫 Reach me with e-mail a@cz123.top.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
