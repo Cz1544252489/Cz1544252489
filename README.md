@@ -5,12 +5,12 @@
 - 💞️ I’m coding on MATLAB, Python, Shell(Linux) and C++.
 - ✈️ As a person interesting to linux, I made a web that contains many links to some places I always visit. You can see it [here](https://hp.cz123.top).
 - 🍎 I like writing, and I put my articles (including my annual summary) on [here](https://file.cz123.top/8Writing/) with pdf extension.
-- 📝 Work and study with self-hosted [Trilium Notes](https://github.com/TriliumNext/Trilium), a note-taking app with 36k+ GitHub stars, available at [notes.cz123.top](https://notes.cz123.top).
-- 🎹 Music streaming with self-hosted [Navidrome](https://github.com/navidrome/navidrome), a music server with 21k+ GitHub stars, available at [music.cz123.top](https://music.cz123.top).
-- 📖 Reading with self-hosted [Kavita](https://github.com/Kareadita/Kavita), a digital library server with 10k+ GitHub stars, available at [book.cz123.top](https://book.cz123.top).
-- ✍️ Article and code editing with [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim), editors with 40k+ and 100k+ GitHub stars respectively.
-- 🙂 TeX/PDF typesetting with [Tectonic](https://github.com/tectonic-typesetting/tectonic), a modern TeX engine with 5k+ GitHub stars.
-- 🔐 Password management with self-hosted [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a Bitwarden-compatible server with 60k+ GitHub stars, after nearly a year of trying self-hosting and a paid subscription.
+- 📝 Work and study with **self-hosted** [Trilium Notes](https://github.com/TriliumNext/Trilium), a note-taking app with **36k+** GitHub stars, available at [notes.cz123.top](https://notes.cz123.top).
+- 🎹 Music streaming with **self-hosted** [Navidrome](https://github.com/navidrome/navidrome), a music server with **21k+** GitHub stars, available at [music.cz123.top](https://music.cz123.top).
+- 📖 Reading with **self-hosted** [Kavita](https://github.com/Kareadita/Kavita), a digital library server with **10k+** GitHub stars, available at [book.cz123.top](https://book.cz123.top).
+- ✍️ Article and code editing with [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim), editors with **40k+** and **100k+** GitHub stars respectively.
+- 🙂 TeX/PDF typesetting with [Tectonic](https://github.com/tectonic-typesetting/tectonic), a modern TeX engine with **5k+** GitHub stars.
+- 🔐 Password management with **self-hosted** [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a Bitwarden-compatible server with **60k+** GitHub stars, after nearly a year of trying self-hosting and a paid subscription.
 - 📫 Reach me with e-mail a@cz123.top.
 
 
