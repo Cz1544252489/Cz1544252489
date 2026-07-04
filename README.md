@@ -9,7 +9,7 @@
 - ✍️ Article and code editing with [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim), editors with **40k+** and **100k+** GitHub stars respectively.
 - 🙂 TeX/PDF typesetting with [Tectonic](https://github.com/tectonic-typesetting/tectonic), a modern TeX engine with **5k+** GitHub stars.
 - 🔐 Password management with **self-hosted** [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a Bitwarden-compatible server with **60k+** GitHub stars, after nearly a year of trying self-hosting and a paid subscription.
-- 📫 Reach me with e-mail a@cz123.top.
+- 📫 Reach me with e-mail a@shuedu.lol.
 
 
 
