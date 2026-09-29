@@ -21,7 +21,7 @@
 - 📝 Work and study with [Trilium Notes](https://github.com/TriliumNext/Trilium), a note-taking app.
 - 🎹 Music streaming with [Navidrome](https://github.com/navidrome/navidrome), a music server.
 - 📖 Reading with [Kavita](https://github.com/Kareadita/Kavita), a digital library server.
-- ✍️ Article and code editing with [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim).
+- ✍️ Article and code editing with [Vim](https://github.com/vim/vim), [Neovim](https://github.com/neovim/neovim) and [Zed](https://github.com/zed-industries/zed).
 - 🙂 TeX/PDF typesetting with [Tectonic](https://github.com/tectonic-typesetting/tectonic), a modern TeX engine.
 - 🔐 Password management with [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a Bitwarden-compatible server.
 - 📫 Reach me with e-mail a@shuedu.lol.
