@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematical optimization, machine learning, and server tech.
 - 🩹 I’m learning bilevel optimization as well as geometric optimization, and trying to apply them to machine learning.
 - 💞️ I’m coding on MATLAB, Python, Shell(Linux), Go, and C++.
-- 🧑‍💼 I am currently an intern at a company, researching Looped Transformers and their mathematical representations.
+- 🧑‍💼 I am currently an intern at a company, researching Looped Transformers and mathematical representations.
 
 ## Selected projects
 
