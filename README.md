@@ -17,7 +17,7 @@
 - Machine learning
 - Reproducible scientific computing
 
-## About AI Agent
+## AI Agent
 
 - After two months of Claude Code Pro, I upgraded to the Max 5× plan. My account was banned after using the Max 5× plan for 50 days.
 
