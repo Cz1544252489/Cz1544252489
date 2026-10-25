@@ -17,6 +17,10 @@
 - Machine learning
 - Reproducible scientific computing
 
+## About AI Agent
+
+- After two months of Claude Code Pro, I upgraded to the Max 5× plan. My account was banned after using the Max 5× plan for 50 days.
+
 ## Tools I use
 
 - 📝 Work and study with [Trilium Notes](https://github.com/TriliumNext/Trilium), a note-taking app.
@@ -26,7 +30,6 @@
 - 🙂 TeX/PDF typesetting with [Tectonic](https://github.com/tectonic-typesetting/tectonic), a modern TeX engine.
 - 🔐 Password management with [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a Bitwarden-compatible server.
 - 📫 Reach me with e-mail a@shuedu.lol.
-
 
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cz1544252489&show_icons=true&theme=onedark)
